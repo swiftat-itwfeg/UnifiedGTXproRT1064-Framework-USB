@@ -1,0 +1,19 @@
+C:\iar\ewarm-9.60.4\arm\bin\armPROC.dll
+
+ C:\iar\ewarm-9.60.4\arm\bin\armPEMICRO.dll
+
+ D:\Unified-Global-Firmware\UnifiedGTXproRT1064-Framework\Debug\Exe\unified-gt-xpro.out
+
+ --plugin=C:\iar\ewarm-9.60.4\arm\bin\armLibSupportUniversal.dll
+
+ --device_macro=C:\iar\ewarm-9.60.4\arm/config/debugger/NXP/iMXRT.dmac
+
+ --device_macro=C:\iar\ewarm-9.60.4\arm/config/debugger/NXP/iMXRT_Trace.dmac
+
+ "--macro=D:\Unified-Global-Firmware\UnifiedGTXproRT1064 -Framework\evkmimxrt1064.mac"
+
+ --flash_loader=C:\iar\ewarm-9.60.4\arm/config/flashloader/NXP/FlashIMXRT1064_SIP.board
+
+ 
+
+

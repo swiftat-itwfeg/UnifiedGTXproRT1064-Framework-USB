@@ -1,0 +1,17 @@
+--endian=little
+
+--cpu=Cortex-M7
+
+--fpu=VFPv5_D16
+
+-p
+
+C:\iar\ewarm-9.60.4\arm\config\debugger\NXP\MIMXRT1064xxx6A.ddf
+
+--semihosting
+
+--device=MIMXRT1064xxx6A
+
+
+
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildDb>
+    <Tool>
+        <Name>linker</Name>
+        <Parent>
+            <Path>D:\Unified-Global-Firmware\UnifiedGTXproRT1064-Framework\Debug\Exe\unified-gt-xpro.out</Path>
+            <Output>
+                <Path>D:\Unified-Global-Firmware\UnifiedGTXproRT1064-Framework\Debug\List\unified-gt-xpro.map</Path>
+            </Output>
+        </Parent>
+        <Parent>
+            <Path>D:\Unified-Global-Firmware\UnifiedGTXproRT1064 -Framework\Debug\Exe\unified-gt-xpro.out</Path>
+            <Output>
+                <Path>D:\Unified-Global-Firmware\UnifiedGTXproRT1064 -Framework\Debug\List\unified-gt-xpro.map</Path>
+            </Output>
+        </Parent>
+    </Tool>
+</BuildDb>
